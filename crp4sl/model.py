@@ -1,4 +1,4 @@
-"""Bliss-guided three-arm response predictor (paper Section 5.1)."""
+"""Bliss-guided three-arm response predictor."""
 
 from __future__ import annotations
 import numpy as np
